@@ -1,4 +1,4 @@
-<h2 align="left"># 👋 Hello, I'm William Smolarek!<br><br>**Software Engineering Student | Full-Stack Developer in Training | Tech Enthusiast**<br><br>From Ponta Grossa, Paraná, Brazil 🇧🇷</h2>
+<h2 align="left"> Hello, I'm William Smolarek!<br><br>Software Engineering Student | Full-Stack Developer in Training | Tech Enthusiast<br><br>From Ponta Grossa, Paraná, Brazil 🇧🇷</h2>
 
 ###
 
