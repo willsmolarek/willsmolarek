@@ -5,30 +5,49 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=willsmolarek&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vision-friendly-dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=willsmolarek&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vision-friendly-dark&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=willsmolarek&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&border_radius=10" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=willsmolarek&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&border_radius=10" height="150" alt="languages graph" />
 </div>
-
-###
-
-<img align="left" height="150" src="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da846a87ebc3e6ba242c6ea5e02f"  />
 
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31dqtss6y2l7mp4hnpaxle3k3p3i&count=3" alt="Spotify recently played" height="150" />
 </div>
 
 ###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,git,github,nodejs,postgres,mongodb,docker,figma,vscode" alt="Tech Stack" />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/seu-linkedin" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
+  <a href="mailto:seu-email@exemplo.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  </a>
+</div>
+
+###
+
+## 🚀 Projetos em Destaque
+
+<div align="center">
+  
+| Projeto | Descrição | Tecnologias |
+|---------|-----------|-------------|
+| [🔗 UserService](https://github.com/willsmolarek/UserService) | API para gerenciamento de usuários | TypeScript, Node.js, PostgreSQL |
+| [🔗 PaymentService](https://github.com/willsmolarek/paymentService) | Microserviço de pagamentos | TypeScript, Docker, Node.js |
+| [🔗 LandingPage](https://github.com/willsmolarek/LandingPage) | Landing page responsiva | React, TypeScript, CSS3 |
+
+</div>
+
+###
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=willsmolarek&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</div>
