@@ -34,20 +34,6 @@
 
 ###
 
-## 🚀 Projetos em Destaque
-
-<div align="center">
-  
-| Projeto | Descrição | Tecnologias |
-|---------|-----------|-------------|
-| [🔗 UserService](https://github.com/willsmolarek/UserService) | API para gerenciamento de usuários | TypeScript, Node.js, PostgreSQL |
-| [🔗 PaymentService](https://github.com/willsmolarek/paymentService) | Microserviço de pagamentos | TypeScript, Docker, Node.js |
-| [🔗 LandingPage](https://github.com/willsmolarek/LandingPage) | Landing page responsiva | React, TypeScript, CSS3 |
-
-</div>
-
-###
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=willsmolarek&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
