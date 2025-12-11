@@ -12,18 +12,6 @@
 ###
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31dqtss6y2l7mp4hnpaxle3k3p3i&count=3" alt="Spotify recently played" height="150" />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,git,github,nodejs,postgres,mongodb,docker,figma,vscode" alt="Tech Stack" />
-</div>
-
-###
-
-<div align="center">
   <a href="https://www.linkedin.com/in/william-de-camargo-smolarek-a46720268/?skipRedirect=true" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
