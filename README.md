@@ -21,7 +21,7 @@
 
 
 
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31dqtss6y2l7mp4hnpaxle3k3p3i&count=3" alt="Spotify recently played" height="150" />
+
 
 
 </div>
