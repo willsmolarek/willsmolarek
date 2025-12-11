@@ -23,5 +23,38 @@
 ###
 
 <div align="center">
+
+
+
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31dqtss6y2l7mp4hnpaxle3k3p3i&count=3" alt="Spotify recently played" height="150" />
+
+
+</div>
+
+
+
+
+
+###
+
+
+
+
+
+<div align="center">
+
+
+  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,git,github,nodejs,postgres,mongodb,docker,figma,vscode" alt="Tech Stack" />
+
+
+</div>
+
+
+
+
+
+###
+
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=willsmolarek&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
