@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h4 align="center">Hello, I'm William Smolarek!<br><br>Software Engineering Student | Full-Stack Developer in Training | Tech Enthusiast<br><br>From Ponta Grossa, Paraná, Brazil 🇧🇷</h4>
+<h4 align="center">Hello, I'm William Smolarek!<br><br>Software Engineering | Full-Stack Developer in Training | Tech Enthusiast<br><br>From Ponta Grossa, Paraná, Brazil 🇧🇷</h4>
 
 
 
