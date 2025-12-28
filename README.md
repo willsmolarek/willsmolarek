@@ -2,8 +2,6 @@
 
 <h4 align="center">Hello, I'm William Smolarek!<br><br>Software Engineering | Full-Stack Developer in Training | Tech Enthusiast<br><br>From Ponta Grossa, Paraná, Brazil 🇧🇷</h4>
 
-
-
 ###
 
 <div align="center">
@@ -26,10 +24,6 @@
 
 </div>
 
-
-
-
-
 ###
 
 
@@ -39,7 +33,7 @@
 <div align="center">
 
 
-  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,git,github,nodejs,postgres,mongodb,docker,figma,vscode" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,git,github,nodejs,postgres,mongodb,docker,figma,vscode,jest,redux,express,postman,linux,vercel,netlify,aws,graphql" alt="Tech Stack" />
 
 
 </div>
