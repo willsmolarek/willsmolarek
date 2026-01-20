@@ -19,13 +19,6 @@
 
 ---
 
-### 🐍 GitHub Contribution Snake
-<div align="center">
-  <img src="https://raw.githubusercontent.com/willsmolarek/willsmolarek/output/github-contribution-grid-snake.svg" alt="snake" />
-</div>
-
----
-
 ### 🛠️ Tech Stack
 
 <div align="center">
