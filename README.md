@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=William%20Smolarek&fontSize=70&animation=fadeIn" />
-</div>
+
 
 <div align="center">
   <h3>Olá, eu sou o William! 👋</h3>
