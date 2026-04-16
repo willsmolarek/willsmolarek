@@ -1,6 +1,6 @@
 <div align="center">
   <h1>William Smolarek 👋</h1>
-  <p><strong>Engenheiro de Software | Especialista Python & Web</strong></p>
+  <p><strong>Engenheiro de Software</strong></p>
   <p>📍 Jaraguá do Sul, SC 🇧🇷</p>
 
   <div>
@@ -18,7 +18,7 @@
 ### 🎯 Foco: Pesquisa e Desenvolvimento (P&D)
 Engenheiro de Software com foco em plataformas industriais, automação e visualização de dados técnicos.
 
-### 🛠️ Hard Skills (Direto ao ponto)
+### 🛠️ Hard Skills
 * **Linguagens:** Python (Especialista), JavaScript, TypeScript.
 * **Backend:** FastAPI, Django, Node.js (Desenvolvimento de APIs de alta performance).
 * **Frontend:** Next.js, React, Tailwind CSS (Interfaces para visualização técnica).
@@ -34,5 +34,5 @@ Engenheiro de Software com foco em plataformas industriais, automação e visual
 </div>
 
 <div align="center">
-  <sub>Engenheiro de Software focado em soluções para a indústria.</sub>
+  <sub>Engenheiro de Software</sub>
 </div>
