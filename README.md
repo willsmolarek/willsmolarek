@@ -1,39 +1,27 @@
-<div align="center">
-  <h1>William Smolarek 👋</h1>
-  <p><strong>Engenheiro de Software</strong></p>
-  <p> Jaraguá do Sul, SC 🇧🇷</p>
+# William Smolarek
+Engenheiro de Software | Jaraguá do Sul, SC
 
-  <div>
-    <a href="https://www.linkedin.com/in/william-de-camargo-smolarek-a46720268/" target="_blank">
-      <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
-    </a>
-    <a href="mailto:willcskfeed@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
-    </a>
-  </div>
-</div>
+[LinkedIn](https://www.linkedin.com/in/william-de-camargo-smolarek-a46720268/) | [Gmail](mailto:willcskfeed@gmail.com)
 
 ---
 
-### Pesquisa e Desenvolvimento (P&D)
-Engenheiro de Software com foco em plataformas industriais, automação e visualização de dados técnicos.
+### Formação
+* Bacharelado em Engenharia de Software - Unopar (2022 - 2025)
 
 ### Hard Skills
-* **Linguagens:** Python, JavaScript, TypeScript.
-* **BD:** MongoDB
-* **Backend:** FastAPI, Django, Node.js.
-* **Frontend:** Next.js, React, Tailwind CSS.
-* **DevOps:** Docker, Git, Linux.
-* **Metodologias:** Scrum, Kanban e SAP Activate.
+* **Linguagens:** Python, TypeScript, JavaScript.
+* **Backend:** FastAPI, Django, Node.js, Express, Prisma, Swagger, Jest.
+* **Frontend:** Next.js, React, Tailwind CSS, HTML, CSS.
+* **Dados:** PostgreSQL, MongoDB, SQLAlchemy.
+* **Infraestrutura:** Docker, GIT, CI/CD, Linux.
+* **Metodologias:** Scrum, Kanban, MoSCoW, SOLID.
+
+### Experiência
+* **Lions Dev Startups (08/2025 – 01/2026):** Product Owner (Gestão de 10 pessoas) e Desenvolvedor Frontend (React/TypeScript).
+* **GitProfileAI (12/2025):** Desenvolvimento de metadados e SEO com Next.js 13.
 
 ---
 
 ### GitHub Stats
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=willsmolarek&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willsmolarek&layout=compact&langs_count=7&theme=tokyonight" />
-</div>
-
-<div align="center">
-  <sub>Engenheiro de Software</sub>
-</div>
+![Stats](https://github-readme-stats.vercel.app/api?username=willsmolarek&show_icons=true&theme=tokyonight&count_private=true)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=willsmolarek&layout=compact&theme=tokyonight)
