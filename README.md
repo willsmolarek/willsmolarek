@@ -20,7 +20,8 @@ Engenheiro de Software com foco em plataformas industriais, automação e visual
 
 ### Hard Skills
 * **Linguagens:** Python, JavaScript, TypeScript.
-* **Backend:** FastAPI, Django, Node.js (Desenvolvimento de APIs).
+* **BD:** MongoDB
+* **Backend:** FastAPI, Django, Node.js.
 * **Frontend:** Next.js, React, Tailwind CSS.
 * **DevOps:** Docker, Git, Linux.
 * **Metodologias:** Scrum, Kanban e SAP Activate.
