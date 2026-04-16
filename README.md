@@ -6,18 +6,18 @@ Engenheiro de Software | Jaraguá do Sul, SC
 ---
 
 ### Formação
-* Bacharelado em Engenharia de Software - Unopar (2022 - 2025)
+* Bacharelado em Engenharia de Software
 
 ### Hard Skills
 * **Linguagens:** Python, TypeScript, JavaScript.
 * **Backend:** FastAPI, Django, Node.js, Express, Prisma, Swagger, Jest.
 * **Frontend:** Next.js, React, Tailwind CSS, HTML, CSS.
-* **Dados:** PostgreSQL, MongoDB, SQLAlchemy.
+* **Dados:** PostgreSQL, MongoDB.
 * **Infraestrutura:** Docker, GIT, CI/CD, Linux.
 * **Metodologias:** Scrum, Kanban, MoSCoW, SOLID.
 
 ### Experiência
-* **Lions Dev Startups (08/2025 – 01/2026):** Product Owner (Gestão de 10 pessoas) e Desenvolvedor Frontend (React/TypeScript).
+* **Lions Dev Startups (08/2025 – 01/2026)
 * **GitProfileAI (12/2025):** Desenvolvimento de metadados e SEO com Next.js 13.
 
 ---
