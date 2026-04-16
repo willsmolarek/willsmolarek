@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>Hi, I'm William Smolarek 👋</h1>
-  <p><strong>Software Engineer | Backend Specialist | Python & Node.js</strong></p>
+  <h1>William Smolarek 👋</h1>
+  <p><strong>Software Engineer | Backend & Full-Stack Developer</strong></p>
   <p>📍 Jaraguá do Sul, SC, Brazil 🇧🇷</p>
 
   <div>
@@ -15,25 +15,19 @@
 
 ---
 
-### 🎯 Professional Overview
-Software Engineering graduate focused on building scalable backend architectures and efficient data solutions. Currently specializing in **Python Backend Development** and modern web ecosystems.
+### 🎯 Research & Development Focus
+Software Engineering graduate specialized in building robust web platforms for technical and industrial applications. Experienced in developing scalable backends with Python and integrating agile methodologies (Scrum/Kanban) into complex projects.
 
-### 🐍 Python Backend Expertise
-* **Frameworks:** FastAPI, Django, Flask.
-* **Asynchronous Programming:** Experience with `asyncio` and Celery for background tasks.
-* **APIs:** RESTful and GraphQL (Graphene/Strawberry) implementation.
-* **Data & DBs:** SQLAlchemy ORM, PostgreSQL, Redis, and MongoDB.
-* **Testing:** Unit and integration testing with Pytest.
+### 🛠️ Core Skills for Industrial Web Solutions
+* **Backend:** Proficiency in **Python**, with hands-on experience in **FastAPI** and **Django** for high-performance APIs.
+* **Frontend:** Building intuitive interfaces using **Next.js**, React, and Tailwind CSS.
+* **DevOps & Infrastructure:** Efficient use of **Docker** for containerization and environment consistency.
+* **Database:** Architecture and management with PostgreSQL, MongoDB, and SQLAlchemy.
 
 ---
 
-### 🛠️ Tech Stack
-
-**Languages & Frameworks**
-`Python` `JavaScript` `TypeScript` `Node.js` `React` `Next.js`
-
-**Infrastructure & Databases**
-`PostgreSQL` `MongoDB` `Docker` `Kubernetes` `AWS` `Git` `Linux`
+### 💻 Tech Stack
+`Python` `JavaScript` `TypeScript` `Node.js` `FastAPI` `Django` `Next.js` `Docker` `PostgreSQL` `Git` `Linux`
 
 ---
 
@@ -44,5 +38,5 @@ Software Engineering graduate focused on building scalable backend architectures
 </div>
 
 <div align="center">
-  <sub>Refined with focus on Backend Engineering</sub>
+  <sub>Focused on Engineering and Technical Innovation</sub>
 </div>
