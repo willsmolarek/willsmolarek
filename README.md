@@ -1,7 +1,7 @@
 <div align="center">
   <h1>William Smolarek 👋</h1>
   <p><strong>Engenheiro de Software</strong></p>
-  <p>📍 Jaraguá do Sul, SC 🇧🇷</p>
+  <p> Jaraguá do Sul, SC 🇧🇷</p>
 
   <div>
     <a href="https://www.linkedin.com/in/william-de-camargo-smolarek-a46720268/" target="_blank">
@@ -15,10 +15,10 @@
 
 ---
 
-### 🎯 Foco: Pesquisa e Desenvolvimento (P&D)
+### Pesquisa e Desenvolvimento (P&D)
 Engenheiro de Software com foco em plataformas industriais, automação e visualização de dados técnicos.
 
-### 🛠️ Hard Skills
+### Hard Skills
 * **Linguagens:** Python (Especialista), JavaScript, TypeScript.
 * **Backend:** FastAPI, Django, Node.js (Desenvolvimento de APIs de alta performance).
 * **Frontend:** Next.js, React, Tailwind CSS (Interfaces para visualização técnica).
@@ -27,7 +27,7 @@ Engenheiro de Software com foco em plataformas industriais, automação e visual
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 <div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=willsmolarek&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willsmolarek&layout=compact&langs_count=7&theme=tokyonight" />
