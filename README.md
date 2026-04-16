@@ -1,7 +1,7 @@
 <div align="center">
   <h1>William Smolarek 👋</h1>
-  <p><strong>Software Engineer | Backend & Full-Stack Developer</strong></p>
-  <p>📍 Jaraguá do Sul, SC, Brazil 🇧🇷</p>
+  <p><strong>Engenheiro de Software | Especialista Python & Web</strong></p>
+  <p>📍 Jaraguá do Sul, SC 🇧🇷</p>
 
   <div>
     <a href="https://www.linkedin.com/in/william-de-camargo-smolarek-a46720268/" target="_blank">
@@ -15,28 +15,24 @@
 
 ---
 
-### 🎯 Research & Development Focus
-Software Engineering graduate specialized in building robust web platforms for technical and industrial applications. Experienced in developing scalable backends with Python and integrating agile methodologies (Scrum/Kanban) into complex projects.
+### 🎯 Foco: Pesquisa e Desenvolvimento (P&D)
+Engenheiro de Software com foco em plataformas industriais, automação e visualização de dados técnicos.
 
-### 🛠️ Core Skills for Industrial Web Solutions
-* **Backend:** Proficiency in **Python**, with hands-on experience in **FastAPI** and **Django** for high-performance APIs.
-* **Frontend:** Building intuitive interfaces using **Next.js**, React, and Tailwind CSS.
-* **DevOps & Infrastructure:** Efficient use of **Docker** for containerization and environment consistency.
-* **Database:** Architecture and management with PostgreSQL, MongoDB, and SQLAlchemy.
-
----
-
-### 💻 Tech Stack
-`Python` `JavaScript` `TypeScript` `Node.js` `FastAPI` `Django` `Next.js` `Docker` `PostgreSQL` `Git` `Linux`
+### 🛠️ Hard Skills (Direto ao ponto)
+* **Linguagens:** Python (Especialista), JavaScript, TypeScript.
+* **Backend:** FastAPI, Django, Node.js (Desenvolvimento de APIs de alta performance).
+* **Frontend:** Next.js, React, Tailwind CSS (Interfaces para visualização técnica).
+* **DevOps:** Docker (Conteinerização), Git, Linux.
+* **Metodologias:** Scrum, Kanban e SAP Activate.
 
 ---
 
-### 📊 GitHub Activity
+### 📊 GitHub Stats
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=willsmolarek&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willsmolarek&layout=compact&langs_count=7&theme=tokyonight" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=willsmolarek&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willsmolarek&layout=compact&langs_count=7&theme=tokyonight" />
 </div>
 
 <div align="center">
-  <sub>Focused on Engineering and Technical Innovation</sub>
+  <sub>Engenheiro de Software focado em soluções para a indústria.</sub>
 </div>
