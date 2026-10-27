@@ -10,7 +10,9 @@ Bacharel em Engenharia de Software com atuação prática em desenvolvimento ful
 ---
 
 ### Experiência
-* **Suporte N4 @ Positivo S+ (unidade dedicada a WEG)** *(Mai/2026 – Presente)*
+* **Engenheiro de Software @ WEG IEL (WEG)** *(Ago/2026 – Presente)*
+  * Desenvolvedor Full-Stack WEB e automações (metrologia).
+* **Suporte @ Positivo S+ (unidade dedicada a WEG)** *(Mai/2026 – Ago/2026)*
   * Automação de gestão de usuários.
   * Suporte a redes Wi-Fi 6, diagnóstico de hardware, manutenção de maquinas, montagem de pcs e resolução de incidentes.
 * **Desenvolvedor / PO na Lions Dev Startups** *(Ago/2025 – Jan/2026)*
