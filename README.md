@@ -1,11 +1,11 @@
 # William Smolarek
-**Engenheiro de Software & Suporte Técnico** | Jaraguá do Sul, SC  
+**Engenheiro de Software** | Jaraguá do Sul, SC  
 [LinkedIn](https://www.linkedin.com/in/william-de-camargo-smolarek-a46720268/) • [E-mail](mailto:willcskfeed@gmail.com)
 
 ---
 
 ### Sobre
-Bacharel em Engenharia de Software com atuação prática em desenvolvimento full-stack e suporte técnico/infraestrutura. Focado em automação de processos, código limpo com TypeScript/Python.
+Bacharel em Engenharia de Software com atuação prática em desenvolvimento full-stack. Focado em automação de processos, código limpo com TypeScript/Python.
 
 ---
 
